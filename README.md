@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=500&color=%234CAF50&lines=Hey%2C%20I%20am%20JAI;AI%20/%20ML%20Enthusiast%20%7C%20Researcher;2nd%20Year%20CS%20Undergrad%20%7C%20SRM;Building%20AI%20for%20Real-World%20Impact;Let%E2%80%99s%20Collaborate%20and%20Innovate%21" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=500&color=%239DC183&lines=Hey%2C%20I%20am%20JAI;AI%20/%20ML%20Enthusiast%20%7C%20Researcher;2nd%20Year%20CS%20Undergrad%20%7C%20SRM;Building%20AI%20for%20Real-World%20Impact;Let%E2%80%99s%20Collaborate%20and%20Innovate%21" alt="Typing SVG" />
   </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
----
+<hr style="height:2px;border-width:0;color:#9DC183;background-color:#9DC183">
 
 ## About Me
 
@@ -66,4 +66,4 @@
 
 ---
 
-> "what a blessing to be tired in the pursuit of a challenge of your own choosing"
+<span style="color:#9DC183; font-style:italic;">"what a blessing to be tired in the pursuit of a challenge of your own choosing"</span>
