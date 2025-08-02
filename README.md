@@ -12,9 +12,8 @@
 
 - 2nd-year B.Tech CS (AI & ML), SRM IST, Chennai
 - Academic Intern at National University of Singapore (NUS)
-- Built AI-powered systems for artwork classification and forgery detection
+- Currently working on projects based on AI and ML
 - Love to collaborate with global teams and present tech research
-- Certified in Prompt Engineering by DeepLearning.AI
 - Always learning new ML, Deep Learning, and Data Science skills
 - Football enthusiast and team captain—on and off the field
 - Open to internships, research, and open-source collaborations
