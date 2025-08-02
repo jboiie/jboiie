@@ -66,4 +66,4 @@
 
 ---
 
-<span style="color:#9DC183; font-style:italic;">"what a blessing to be tired in the pursuit of a challenge of your own choosing"</span>
+### "what a blessing to be tired in the pursuit of a challenge of your own choosing"
