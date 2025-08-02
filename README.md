@@ -15,7 +15,7 @@
 - Currently working on projects based on AI and ML
 - Love to collaborate with global teams and present tech research
 - Always learning new ML, Deep Learning, and Data Science skills
-- Football enthusiast and team captain—on and off the field
+- Football enthusiast and team captain; on and off the field
 - Open to internships, research, and open-source collaborations
 
 ---
@@ -53,7 +53,7 @@
   Led end-to-end deep learning projects using ResNet50, GANs, and CV for artwork authenticity on 45,000+ real-world images.
 - **AI Research & Deep Learning:**  
   Focused on practical challenges in image classification, metadata merging, and scalable machine learning.
-- Eager to add new open-source and collaborative projects—let’s connect!
+- Eager to add new open-source and collaborative projects.
 
 ---
 
