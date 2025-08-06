@@ -1,34 +1,45 @@
 <div align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=500&color=9DC183&lines=Hey%2C%20I%20am%20JAI;AI%20/%20ML%20Enthusiast%20%7C%20Researcher;2nd%20Year%20CS%20Undergrad%20%7C%20SRM;Building%20AI%20for%20Real-World%20Impact" alt="Typing SVG" />
   </a>
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="340" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<hr style="height:2px;border-width:0;background-color:#9DC183;">
 
-<hr style="height:2px;border-width:0;color:#9DC183;background-color:#9DC183">
+<h2 align="center">👋 About Me</h2>
 
-## About Me
-
-- 2nd-year B.Tech CS (AI & ML), SRM IST, Chennai
-- Academic Intern at National University of Singapore (NUS)
-- Currently working on projects based on AI and ML
-- Love to collaborate with global teams and present tech research
-- Always learning new ML, Deep Learning, and Data Science skills
-- Football enthusiast and team captain; on and off the field
-- Open to internships, research, and open-source collaborations
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaikharb)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/jboiie)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jai19kharb@gmail.com)  
+<ul>
+  <li> 2nd-year B.Tech CS (AI & ML), <b>SRM IST, Chennai</b></li>
+  <li> Academic Intern at <b>National University of Singapore (NUS)</b></li>
+  <li> Building projects in AI & ML, with hands-on experience in deep learning</li>
+  <li> Love to collaborate with global teams & present tech research</li>
+  <li> Life-long learner — always exploring ML, Deep Learning & Data Science</li>
+  <li> Football enthusiast & team captain (on & off the field!)</li>
+  <li> Open to internships, research, and open-source collabs</li>
+</ul>
 
 ---
 
-## Tech Stack
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaikharb">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/jboiie">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:jai19kharb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -47,22 +58,27 @@
 
 ---
 
-## Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-- **Historic Artwork Forgery Detection (NUS):**  
-  Led end-to-end deep learning projects using ResNet50, GANs, and CV for artwork authenticity on 45,000+ real-world images.
-- **AI Research & Deep Learning:**  
-  Focused on practical challenges in image classification, metadata merging, and scalable machine learning.
-- Eager to add new open-source and collaborative projects.
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=jboiie&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=jboiie&theme=blue-green&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jboiie&theme=blue-green&hide_border=false&layout=compact)
+-  <b>Historic Artwork Forgery Detection (NUS):</b>
+  <br/>Led end-to-end DL projects using ResNet50, GANs, and CV for artwork authenticity on 45,000+ real-world images.
+-  <b>AI Research & Deep Learning:</b>
+  <br/>Focused on practical challenges in image classification, metadata merging, and scalable ML.
+-  Eager to add new open-source and collaborative projects!
 
 ---
 
-### "what a blessing to be tired in the pursuit of a challenge of your own choosing"
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jboiie&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jboiie&theme=blue-green&hide_border=false" height="150"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jboiie&theme=blue-green&hide_border=false&layout=compact" height="120"/>
+</p>
+
+---
+
+<div align="center" style="font-size:1.15em"><em>
+"what a blessing to be tired in the pursuit of a challenge of your own choosing"
+</em></div>
