@@ -7,7 +7,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="340" />
 </div>
 
-<hr style="height:2px;border-width:0;background-color:#9DC183;">
 
 <h2 align="center">🌐 Connect with Me</h2>
 
