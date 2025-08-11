@@ -9,28 +9,11 @@
 
 <hr style="height:2px;border-width:0;background-color:#9DC183;">
 
-<h2 align="center">👋 About Me</h2>
-
-<ul>
-  <li> 2nd-year B.Tech CS (AI & ML), <b>SRM IST, Chennai</b></li>
-  <li> Academic Intern at <b>National University of Singapore (NUS)</b></li>
-  <li> Building projects in AI & ML, with hands-on experience in deep learning</li>
-  <li> Love to collaborate with global teams & present tech research</li>
-  <li> Life-long learner — always exploring ML, Deep Learning & Data Science</li>
-  <li> Football enthusiast & team captain (on & off the field!)</li>
-  <li> Open to internships, research, and open-source collabs</li>
-</ul>
-
----
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaikharb">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/jboiie">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:jai19kharb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -56,17 +39,6 @@
   <img src="https://img.shields.io/badge/Google--Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
 </p>
 
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
--  <b>Historic Artwork Forgery Detection (NUS):</b>
-  <br/>Led end-to-end DL projects using ResNet50, GANs, and CV for artwork authenticity on 45,000+ real-world images.
--  <b>AI Research & Deep Learning:</b>
-  <br/>Focused on practical challenges in image classification, metadata merging, and scalable ML.
--  Eager to add new open-source and collaborative projects!
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
