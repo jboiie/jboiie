@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=500&color=9DC183&lines=Hey%2C%20I%20am%20JAI;AI%20/%20ML%20Enthusiast%20%7C%20Researcher;2nd%20Year%20CS%20Undergrad%20%7C%20SRM;Building%20AI%20for%20Real-World%20Impact" alt="Typing SVG" />
   </a>
   <br/><br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="340" />
+  
 </div>
 
 
