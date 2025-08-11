@@ -19,8 +19,6 @@
   </a>
 </p>
 
----
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
