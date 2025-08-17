@@ -40,25 +40,11 @@
 <h2 align="center"> GitHub Stats</h2>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jboiie&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=3b82f6&text_color=e6edf3&icon_color=3b82f6" 
-    height="150"/>
-    
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=jboiie&hide_border=true&background=000000&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideNums=3b82f6&sideLabels=e6edf3&dates=aaaaaa&stroke=333333" 
-    height="150"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=jboiie&theme=blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jboiie&theme=blue&hide_border=false" height="150"/>
   <br/>
-  
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jboiie&hide_border=true&layout=compact&bg_color=000000&title_color=3b82f6&text_color=e6edf3" 
-    height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jboiie&theme=blue&hide_border=false&layout=compact" height="120"/>
 </p>
-
-
 
 ---
 
