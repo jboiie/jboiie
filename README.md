@@ -40,10 +40,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jboiie&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jboiie&theme=blue-green&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jboiie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jboiie&theme=blue-green&hide_border=false&layout=compact" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jboiie&theme=tokyonight&hide_border=false&layout=compact" height="120"/>
+  <div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jboiie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 </p>
 
 ---
