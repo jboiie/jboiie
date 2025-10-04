@@ -45,8 +45,11 @@ Beyond algorithms and data models, I have an artistic edge, with an eye for crea
 
 <h4 align="center">🤖 Machine Learning & AI</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TorchScript-1E1E1E?style=for-the-badge&logo=pytorchlightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0E76A8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-2F3C7E?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-FFC107?style=for-the-badge&logo=matplotlib&logoColor=black"/>
