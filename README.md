@@ -74,6 +74,7 @@ Beyond algorithms and data models, I have an artistic edge, with an eye for crea
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 </p>
 
 ---
