@@ -87,8 +87,7 @@ Beyond algorithms and data models, I have an artistic edge, with an eye for crea
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jboiie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jboiie&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jboiie&theme=tokyonight&hide_border=false&layout=compact" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jboiie&theme=tokyonight&hide_border=false&layout=compact" height="190"/>
 </div>
 
 <div align="center">
