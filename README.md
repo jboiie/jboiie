@@ -96,16 +96,21 @@ Beyond algorithms and data models, I have an artistic edge, with an eye for crea
 
 ---
 
-<h2 align="center"> Connect with Me</h2>
+<div align="center">
+  <h2>Connect with Me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/jaikharb" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:jai19kharb@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" style="margin-right:10px;"/>
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaikharb">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jai19kharb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
+
 
 ---
 
