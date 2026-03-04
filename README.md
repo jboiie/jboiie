@@ -30,8 +30,6 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
 
 ---
 
----
-
 <div align="center">
   <h2>Connect with Me</h2>
   <p>
