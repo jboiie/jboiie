@@ -30,17 +30,6 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
 
 ---
 
-<h2 align="center"> GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jboiie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jboiie&theme=tokyonight&hide_border=false&layout=compact" height="190"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jboiie&bg_color=0d1117&color=36BCF7&line=00BFFF&point=1E90FF&area=true&hide_border=true" width="95%"/>
-</div>
-
 ---
 
 <div align="center">
