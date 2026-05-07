@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=600&color=0496C7&lines=Hey%2C+I+am+JAI+%F0%9F%91%8B;AI%2FML+Enthusiast+%7C+Research+%26+Deployment;2nd+Year+CSE+Undergrad+%40+SRM;Building+Practical+AI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=600&color=0496C7&lines=Hey%2C+I+am+JAI+%F0%9F%91%8B;ML%2FDL+Enthusiast+%7C+Research+%26+LLM-Security;2nd+Year+CSE+Undergrad+%40+SRM" alt="Typing SVG" />
   </a>
 
 <br/>
@@ -20,7 +20,7 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
 
 <div align="center">
 
-  <h2>🧠 Tech Stack</h2>
+  <h2> Tech Stack</h2>
 
 <p align="center">
   whatever it takes tbh
