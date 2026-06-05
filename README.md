@@ -35,7 +35,7 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
   <p>
     <a href="https://www.linkedin.com/in/jaikharb" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-    </a>
+    </a> <a></a>
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:jai19kharb@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" style="margin-right:10px;"/>
