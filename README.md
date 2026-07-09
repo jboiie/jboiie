@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=600&color=0496C7&lines=Hey%2C+I+am+JAI+%F0%9F%91%8B;ML%2FDL+Enthusiast+%7C+Research+%26+LLM-Security;2nd+Year+CSE+Undergrad+%40+SRM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=600&color=0496C7&lines=Hey%2C+I+am+JAI+%F0%9F%91%8B;ML%2FDL+Enthusiast+%7C+Research+%26+LLM-Security;3rd+Year+CSE+Undergrad+%40+SRM" alt="Typing SVG" />
   </a>
 
 <br/>
@@ -23,9 +23,16 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
   <h2> Tech Stack</h2>
 
 <p align="center">
-  whatever it takes tbh
+  <i>whatever it takes tbh, but mostly:</i><br><br>
+ <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C_/_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Transformers-FF7518?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="RestAPI" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
 </div>
 
 ---
@@ -43,7 +50,11 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
   </p>
 </div>
 
+---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jboiie&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
 
 
 ---
