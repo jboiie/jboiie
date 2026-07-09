@@ -47,22 +47,6 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
 <div align="center">
 
-## GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jboiie&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<br>
-<br>
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jboiie&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
-
 <div align="center">
 
 *"What a blessing to be tired in the pursuit of a challenge of your own choosing."*
