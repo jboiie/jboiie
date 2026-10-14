@@ -3,7 +3,9 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=650&color=0496C7&lines=Hey%2C+I+am+JAI+%F0%9F%91%8B;AI%2FML+%7C+Research+%7C+LLM+Security;3rd+Year+CSE+Undergrad+%40+SRM" alt="Typing SVG" />
 </a>
+
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
 
 <h2 align="center">About Me</h2>
@@ -12,6 +14,25 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
+
+<h2 align="center">What I Work On</h2>
+
+<p align="center">
+<b>LLM security:red-teaming pipelines and guardrail evaluation for language models</b> <br> 
+<b>Currently: researching applications of transformers in B5G networks and Sign language</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
+
+<h2 align="center">Open Source</h2>
+
+<p align="center">
+<a href="https://github.com/Azure/PyRIT"><b>Microsoft PyRIT</b></a>: added the GOAT attack technique for automated LLM red-teaming (PR #2763)<br>
+<a href="https://github.com/cisco-ai-defense/mcp-scanner"><b>Cisco AI Defense / mcp-scanner</b></a>: fixed a YARA rule false positive (PR #261)
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
+
 <div align="center">
 
 ## Tech Stack
@@ -23,6 +44,7 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Transformers-FF7518?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -43,9 +65,10 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
 <a href="mailto:jai19kharb@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
-<div align="center">
 
 <div align="center">
 
