@@ -28,7 +28,8 @@ Technology intrigues me not just as a tool, but as an extension of thought. It i
 
 <p align="center">
 <a href="https://github.com/Azure/PyRIT"><b>Microsoft PyRIT</b></a>: added the GOAT attack technique for automated LLM red-teaming (PR #2763)<br>
-<a href="https://github.com/cisco-ai-defense/mcp-scanner"><b>Cisco AI Defense / mcp-scanner</b></a>: fixed a YARA rule false positive (PR #261)
+<a href="https://github.com/cisco-ai-defense/mcp-scanner"><b>Cisco AI Defense / mcp-scanner</b></a>: fixed a YARA rule false positive (PR #261) <br>
+<a href="https://github.com/microsoft/msticpy"><b>Microsoft msticpy</b></a>: Fixed a concurrency bug where threaded queries were paired with the wrong query ID under out-of-order completion, mis-ordering results and retrying the wrong query
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
