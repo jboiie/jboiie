@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="222" viewBox="0 0 720 222" role="img" aria-label="jai — ai/ml, research, llm security">
+  <title>jai — ai/ml · research · llm security</title>
+  <rect x="1" y="1" width="718" height="220" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 34 V11 a10 10 0 0 1 10 -10 H709 a10 10 0 0 1 10 10 V34 Z" fill="#161b22" stroke="#30363d"/>
+  <circle cx="22" cy="17.5" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="17.5" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="17.5" r="6" fill="#28c840"/>
+  <text x="360.0" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">jai@github: ~</text>
+
+  <text x="34" y="74" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#e6edf3"><tspan fill="#5eead4">$</tspan> whoami</text>
+
+  <g shape-rendering="crispEdges">
+    <rect x="73" y="101" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="73" y="110" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="73" y="119" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="73" y="128" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="37" y="137" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="73" y="137" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="46" y="146" width="36" height="9.5" fill="#134e4a"/>
+    <rect x="118" y="101" width="36" height="9.5" fill="#134e4a"/>
+    <rect x="109" y="110" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="145" y="110" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="109" y="119" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="145" y="119" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="109" y="128" width="54" height="9.5" fill="#134e4a"/>
+    <rect x="109" y="137" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="145" y="137" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="109" y="146" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="145" y="146" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="181" y="101" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="181" y="110" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="181" y="119" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="181" y="128" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="181" y="137" width="18" height="9.5" fill="#134e4a"/>
+    <rect x="181" y="146" width="18" height="9.5" fill="#134e4a"/>
+  </g>
+  <g shape-rendering="crispEdges">
+    <rect x="70" y="98" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="70" y="107" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="70" y="116" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="70" y="125" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="34" y="134" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="70" y="134" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="43" y="143" width="36" height="9.5" fill="#5eead4"/>
+    <rect x="115" y="98" width="36" height="9.5" fill="#5eead4"/>
+    <rect x="106" y="107" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="142" y="107" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="106" y="116" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="142" y="116" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="106" y="125" width="54" height="9.5" fill="#5eead4"/>
+    <rect x="106" y="134" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="142" y="134" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="106" y="143" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="142" y="143" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="178" y="98" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="178" y="107" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="178" y="116" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="178" y="125" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="178" y="134" width="18" height="9.5" fill="#5eead4"/>
+    <rect x="178" y="143" width="18" height="9.5" fill="#5eead4"/>
+  </g>
+
+  <text x="236" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#e6edf3">ai/ml · research · llm security</text>
+  <circle cx="241" cy="141" r="4.5" fill="#3fb950"/>
+  <text x="254" y="146" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#8b949e">3rd-year cse undergrad @ srm</text>
+
+  <text x="34" y="194" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#5eead4">$</text>
+  <rect x="52" y="181" width="9" height="17" fill="#5eead4">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
