@@ -1,9 +1,8 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3500&pause=1200&center=true&width=650&color=0496C7&lines=Hey%2C+I+am+JAI+%F0%9F%91%8B;AI%2FML+%7C+Research+%7C+LLM+Security;3rd+Year+CSE+Undergrad+%40+SRM" alt="Typing SVG" />
-</a>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+  <img src="./header-light.svg" alt="jai — ai/ml · research · llm security" width="720">
+</picture>
 </div>
 
 
