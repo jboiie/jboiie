@@ -23,17 +23,18 @@
 
 <i>whatever it takes tbh, but mostly:</i>
 <br><br>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%20%2F%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Transformers-FF7518?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/Hugging%20Face-161b22?style=for-the-badge&logo=huggingface&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/Scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/Pandas-161b22?style=for-the-badge&logo=pandas&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/OpenCV-161b22?style=for-the-badge&logo=opencv&logoColor=5EEAD4" />
+<br>
+<img src="https://img.shields.io/badge/Qdrant-161b22?style=for-the-badge&logo=qdrant&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/MLflow-161b22?style=for-the-badge&logo=mlflow&logoColor=5EEAD4" />
 
 </div>
 
@@ -44,10 +45,10 @@
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/jaikharb">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-5EEAD4?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 <a href="mailto:jai19kharb@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-5EEAD4?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 </div>
