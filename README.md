@@ -6,30 +6,14 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
 
-<h2 align="center">About Me</h2>
-<p align="center">
-Technology intrigues me not just as a tool, but as an extension of thought. It is an avenue where logic, creativity, and impact intersect. As a CSE student specializing in AI/ML, I’m driven by a reasoning-first mindset. I always dissect problems through a logical yet conscious lens. Whether it's coding an intelligent system or strategizing on the football field, I thrive in dynamic environments that challenge both intellect and initiative.
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
-
-<h2 align="center">What I Work On</h2>
+<h2 align="center">My Work</h2>
 
 <p align="center">
-<b>LLM security:red-teaming pipelines and guardrail evaluation for language models</b> <br> 
-<b>Currently: researching applications of transformers in B5G networks and Sign language</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
-
-<h2 align="center">Open Source</h2>
-
-<p align="center">
-<a href="https://github.com/Azure/PyRIT"><b>Microsoft PyRIT</b></a>: added the GOAT attack technique for automated LLM red-teaming (PR #2763)<br>
-<a href="https://github.com/cisco-ai-defense/mcp-scanner"><b>Cisco AI Defense / mcp-scanner</b></a>: fixed a YARA rule false positive (PR #261) <br>
-<a href="https://github.com/microsoft/msticpy"><b>Microsoft msticpy</b></a>: Fixed a concurrency bug where threaded queries were paired with the wrong query ID under out-of-order completion, mis-ordering results and retrying the wrong query (PR #952)
+<b>LLM security: red-teaming pipelines and guardrail evaluation for language models</b> <br> 
+<b>Currently: researching applications of transformers in B5G networks and Sign language</b> <br>
+<b>Open Source: contributor in <a href="https://github.com/Azure/PyRIT"><b>Microsoft PyRIT</b></a> , <a href="https://github.com/cisco-ai-defense/mcp-scanner"><b>Cisco AI Defense: mcp-scanner</b></a> and <a href="https://github.com/microsoft/msticpy"><b>Microsoft msticpy</b></a </b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header"/>
